@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Hackathon submission snapshot**
+>
+> This repository preserves the version submitted to **Reinvent the Wheel, 16–18 October 2026**, hosted by [Science Works](https://science.works) and [Inherent Laboratories](https://inherentlabs.ai/).
+>
+> **For the latest version, issues and contributions, visit the original project: [mrgarbett/larr-e](https://github.com/mrgarbett/larr-e).**
+>
+> Submitted version: [`33624a0`](https://github.com/science-works/rtw-2026-larr-e/tree/33624a013d657e7f9729c44d986bcc87a8c75d74). This notice was added after submission. Nothing else in the repository has changed.
+
+---
+
 # LARR-E 🧫💬
 
 What if you could talk to a bioreactor?
